@@ -1,6 +1,6 @@
 import EJSON from "ejson";
 
-import Collection from '../Collection';
+import { Collection } from '../Collection';
 import Data from '../Data';
 import setProperties from './setProperties';
 
